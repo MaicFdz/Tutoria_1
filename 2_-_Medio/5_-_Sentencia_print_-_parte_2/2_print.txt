@@ -1,0 +1,2 @@
+  Imprimimos una cadena y el valor de una
+ variable (también cadena).

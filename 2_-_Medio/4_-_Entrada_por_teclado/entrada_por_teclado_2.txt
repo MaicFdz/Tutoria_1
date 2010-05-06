@@ -1,0 +1,3 @@
+  Ésta función acepta un solo valor como
+ parámetro, se trata de la cadena que nos indica
+ que debemos ingresar un dato.

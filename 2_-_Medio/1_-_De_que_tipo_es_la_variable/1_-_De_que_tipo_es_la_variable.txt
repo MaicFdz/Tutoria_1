@@ -1,0 +1,7 @@
+  Con la función 'type()' podemos saber de qué
+ tipo es el objeto que pasamos como parámetro,
+ incluso si se trata de una variable.
+
+  Nota: para poder visualisar la salida debemos
+ usar 'type()' como un parámetro dentro de
+ 'print()'. 

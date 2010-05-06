@@ -1,0 +1,4 @@
+  Comenzamos con una variable que contiene una
+ cadena, imprimimos y comprobamos el tipo de
+ valor; luego, le asignamos su propio valor pero
+ convertido en entero y vemos el resultado.

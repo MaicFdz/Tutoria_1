@@ -1,0 +1,4 @@
+  Cuando pasamos de flotante a entero se ignora
+ completamente el valor que está después de la
+ coma.
+  No se tiene en cuenta.

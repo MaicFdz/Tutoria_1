@@ -1,0 +1,3 @@
+  Para imprimir varios elementos en una misma
+ línea los separamos mediante una coma.
+  En este caso se trata de cuatro cadenas.

@@ -1,0 +1,6 @@
+  De manera predeterminada, el valor que
+ ingresamos será recibido como una cadena de
+ caracteres. Si en lugar de ésto queremos que el
+ dato sea de otro tipo (como un entero) podemos
+ hacer una conversión, como veremos en el
+ capítulo que sigue.

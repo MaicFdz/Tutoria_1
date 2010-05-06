@@ -1,0 +1,5 @@
+  Para ingresar datos en la consola existe una
+ función llamada 'input'.
+  Cuando se reproduce ésta función el programa
+ espera hasta que escribamos algo y pulsemos la
+ tecla Enter.

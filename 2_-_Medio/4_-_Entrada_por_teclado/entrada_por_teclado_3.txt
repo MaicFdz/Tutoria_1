@@ -1,0 +1,4 @@
+  Para saber: se puede omitir el parámetro
+ para que no veamos ningún mensaje. Pero los
+ paréntesis deben ir de todas formas ya que así
+ es como llamamos a la función.

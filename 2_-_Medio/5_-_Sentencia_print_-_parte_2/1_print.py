@@ -1,0 +1,1 @@
+print('Pedro','Pablo','Maria','Jose')

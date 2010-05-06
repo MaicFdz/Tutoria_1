@@ -1,0 +1,2 @@
+  Hemos visto como ingresar un dato, veamos como
+ guardarlo en una variable.
