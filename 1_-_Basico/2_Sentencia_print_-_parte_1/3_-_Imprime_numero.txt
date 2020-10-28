@@ -1,0 +1,6 @@
+  Hemos visto que las cadenas de caracteres van
+ entre comillas, incluyendo los símbolos
+ numéricos.
+  El caso de los números es particular porque
+ podemos usarlo de dos maneras: como caractér o
+ como valor numérico.

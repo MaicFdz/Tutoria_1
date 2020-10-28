@@ -1,0 +1,1 @@
+  Una de las formas de agregar comentarios en el  código es escribiendo el símbolo '#' (numeral ó  almohadilla), seguido del comentario.

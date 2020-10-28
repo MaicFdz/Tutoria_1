@@ -1,0 +1,4 @@
+  Es tan particular el caso que, si olvidamos
+ colocarlas (cuando es una cadena) o omitirlas
+ (cuando se trata de una operación matemática),
+ podemos obtener un resultado inesperado.

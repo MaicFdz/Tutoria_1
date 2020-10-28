@@ -1,0 +1,2 @@
+ Si la variableUno cambia su valor, la
+ variableDos sigue con el mismo valor que tenía.  Es decir, sólo copia cuando lo indicamos.

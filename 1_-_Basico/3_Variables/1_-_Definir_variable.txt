@@ -1,0 +1,3 @@
+  Las variables nos sirven para guardar datos que luego podemos utilisar.
+  En el ejemplo almacenamos el número 24 en una
+ variable llamada edad.

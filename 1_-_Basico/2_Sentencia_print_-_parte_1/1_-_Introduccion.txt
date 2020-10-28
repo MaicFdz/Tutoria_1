@@ -1,0 +1,6 @@
+  Muchos de los programas que son desarrollados
+ suelen mostrarnos información en determinados
+ momentos. Una de las formas de comunicarse con
+ el usuario es mediante la consola.
+  Para que el programa nos muestre un texto
+ específico utilisamos la sentencia print.

@@ -1,0 +1,3 @@
+  Una variable puede tomar el valor que tiene
+ otra variable, sólo basta con asignarle como
+ valor la variable que debe copiar.

@@ -1,0 +1,2 @@
+  Definimos una variable que contiene un valor
+ entero, luego imprimimos.

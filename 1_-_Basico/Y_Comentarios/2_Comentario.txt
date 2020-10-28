@@ -1,0 +1,3 @@
+  También podemos añadir un comentario al final
+ de una línea de código, utilsando el mismo
+ símbolo.

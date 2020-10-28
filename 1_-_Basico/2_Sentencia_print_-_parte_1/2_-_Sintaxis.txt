@@ -1,0 +1,7 @@
+  La sintaxis de la sentencia print es bastante
+ sencilla, pero siempre debe respetarse la norma. De lo contrario el programa no funciona bien, o  no funciona.
+  Consta de dos paréntesis ().
+  Si lo que imprimimos es una cadena de
+ caractéres, ésta debe ir entre 'comillas simples ' o "comillas dobles", ambas son válidas.
+
+

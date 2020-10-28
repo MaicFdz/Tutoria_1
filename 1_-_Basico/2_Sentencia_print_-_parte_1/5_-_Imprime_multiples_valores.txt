@@ -1,0 +1,2 @@
+  Cuando queremos imprimir distintos valores en
+ una misma línea basta con colocar una ',' (coma) entre los elementos.

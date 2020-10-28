@@ -1,0 +1,2 @@
+  Durante el desarrollo de un programa puede ser  de utilidad saltear parte del código. Para ésto  basta con agregar el símbolo '#' delante de la
+ línea.
